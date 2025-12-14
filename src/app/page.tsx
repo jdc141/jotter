@@ -15,7 +15,7 @@ export default function LandingPage() {
           <span className="text-dim">Keep it simple.</span>
         </h1>
         <p className="mt-6 text-lg text-dim max-w-md mx-auto">
-          One line a day. Track what matters. That's it.
+          One line a day. Track what matters. That&apos;s it.
         </p>
         <div className="mt-10">
           <Link
@@ -59,7 +59,7 @@ export default function LandingPage() {
       {/* Simple pitch */}
       <section className="px-6 pb-32 max-w-xl mx-auto text-center">
         <p className="text-dim leading-relaxed">
-          Most apps try to do too much. Jotter doesn't. 
+          Most apps try to do too much. Jotter doesn&apos;t. 
           It's a notebook that fits in your pocket and stays out of your way.
         </p>
       </section>
